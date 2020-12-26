@@ -1,0 +1,5 @@
+https://www.google.com/search?channel=fs&client=ubuntu&q=building+an+ip+packet+from+scratch+in+python3
+https://inc0x0.com/tcp-ip-packets-introduction/tcp-ip-packets-3-manually-create-and-send-raw-tcp-ip-packets/
+https://medium.com/@NickKaramoff/tcp-packets-from-scratch-in-python-3a63f0cd59fehttps://www.google.com/search?channel=fs&client=ubuntu&q=getting+mac+addresses+in+python3
+https://www.google.com/search?channel=fs&client=ubuntu&q=python3+sock_raw
+https://stackoverflow.com/questions/1117958/how-do-i-use-raw-socket-in-python
