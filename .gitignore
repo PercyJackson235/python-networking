@@ -131,3 +131,5 @@ dmypy.json
 # pycharm and other IDEs
 .idea/
 *vscode*
+
+pyping/
